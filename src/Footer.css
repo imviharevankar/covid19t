@@ -1,0 +1,17 @@
+.footer {
+    margin-top: 5vh;
+    text-align: right;
+}
+
+.footer a{
+    text-decoration: none;
+    color: #fc3c3c;
+}
+
+.footer a:not(:first-child) {
+    padding-left: 20px;
+}
+
+.footer a:visited {
+    color: #fc3c3c;
+}
